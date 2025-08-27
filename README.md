@@ -160,4 +160,4 @@ Lab นี้ครอบคลุมการทำ Linux Security Hardening �
 
 การตรวจสอบระบบและจัดการ log
 
-📂 ดาวน์โหลดไฟล์ Configuration
+📂 Link Linux Security Server Configuration Download
